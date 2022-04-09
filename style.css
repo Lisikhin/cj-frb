@@ -1,0 +1,13 @@
+body{
+   font-family: sans-serif;
+    background-color: rgba(241, 171, 6, 0.938);
+}
+img {
+    height: 300px;
+}
+h1 {
+    color:rgba(4, 173, 4, 0.965);
+}
+p {
+    color:rgba(6, 75, 204, 0.856);
+}
